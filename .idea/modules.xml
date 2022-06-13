@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircleCalculations/CircleCalculations.iml" filepath="$PROJECT_DIR$/CircleCalculations/CircleCalculations.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/LessonsMarkCalculation/LessonsMarkCalculation.iml" filepath="$PROJECT_DIR$/LessonsMarkCalculation/LessonsMarkCalculation.iml" />
