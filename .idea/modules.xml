@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/LessonsMarkCalculation/LessonsMarkCalculation.iml" filepath="$PROJECT_DIR$/LessonsMarkCalculation/LessonsMarkCalculation.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxCalculation/TaxCalculation.iml" filepath="$PROJECT_DIR$/TaxCalculation/TaxCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxiMeterCalculation/TaxiMeterCalculation.iml" filepath="$PROJECT_DIR$/TaxiMeterCalculation/TaxiMeterCalculation.iml" />
       <module fileurl="file://$PROJECT_DIR$/TriangleCalculations/TriangleCalculations.iml" filepath="$PROJECT_DIR$/TriangleCalculations/TriangleCalculations.iml" />
     </modules>
   </component>
