@@ -5,16 +5,21 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         double taxRate = 0.18;
         double amount;
         double calculatedTax;
-
         double amountIncludeTax;
 
         Scanner readLine = new Scanner(System.in);
 
         System.out.println("Enter the amount to calculate tax : ");
         amount = readLine.nextDouble();
+
+        //HomeWork Odev2
+
+        taxRate = amount > 1000 ? 0.08 : 0.18;
+
 
         calculatedTax = amount * taxRate;
 
@@ -24,6 +29,8 @@ public class Main {
         System.out.println("Entered Amount is " + amount);
         System.out.println("Calculated Tax is " + calculatedTax);
         System.out.println("Included with Tax " + amountIncludeTax);
+
+
 
     }
 
