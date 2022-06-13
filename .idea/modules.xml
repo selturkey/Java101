@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircleCalculations/CircleCalculations.iml" filepath="$PROJECT_DIR$/CircleCalculations/CircleCalculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroceryCashier/GroceryCashier.iml" filepath="$PROJECT_DIR$/GroceryCashier/GroceryCashier.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/LessonsMarkCalculation/LessonsMarkCalculation.iml" filepath="$PROJECT_DIR$/LessonsMarkCalculation/LessonsMarkCalculation.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxCalculation/TaxCalculation.iml" filepath="$PROJECT_DIR$/TaxCalculation/TaxCalculation.iml" />
